@@ -1,0 +1,78 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "testingCommon/1.0.0": {
+        "dependencies": {
+          "Beamable.Common": "1.19.7-PREVIEW.RC1"
+        },
+        "runtime": {
+          "testingCommon.dll": {}
+        }
+      },
+      "Beamable.Common/1.19.7-PREVIEW.RC1": {
+        "dependencies": {
+          "Beamable.UnityEngine": "1.19.7-PREVIEW.RC1"
+        },
+        "runtime": {
+          "lib/netstandard2.1/Unity.Beamable.Runtime.Common.dll": {
+            "assemblyVersion": "1.19.7.0",
+            "fileVersion": "1.19.7.0"
+          }
+        }
+      },
+      "Beamable.UnityEngine/1.19.7-PREVIEW.RC1": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.1/UnityEngine.dll": {
+            "assemblyVersion": "1.19.7.0",
+            "fileVersion": "1.19.7.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.1.22727"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "testingCommon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Beamable.Common/1.19.7-PREVIEW.RC1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NXWHEh2klXkdh1y/CorPKvYHmLzsWSvDftZuzix2qstajIdzFAPThIjkn3kWmYLgnDixauyid/wCmknm0KmgpA==",
+      "path": "beamable.common/1.19.7-preview.rc1",
+      "hashPath": "beamable.common.1.19.7-preview.rc1.nupkg.sha512"
+    },
+    "Beamable.UnityEngine/1.19.7-PREVIEW.RC1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nFO4zDe0zNt+yg/BVEVuaNrPxUndr8u/AjV8sYFAG+t8jC3pvm51vfjXDoEDiYP4ajYCRfMwKnEULgqagdj4Qw==",
+      "path": "beamable.unityengine/1.19.7-preview.rc1",
+      "hashPath": "beamable.unityengine.1.19.7-preview.rc1.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pBR3wCgYWZGiaZDYP+HHYnalVnPJlpP1q55qvVb+adrDHmFMDc1NAKio61xTwftK3Pw5h7TZJPJEEVMd6ty8rg==",
+      "path": "newtonsoft.json/12.0.1",
+      "hashPath": "newtonsoft.json.12.0.1.nupkg.sha512"
+    }
+  }
+}

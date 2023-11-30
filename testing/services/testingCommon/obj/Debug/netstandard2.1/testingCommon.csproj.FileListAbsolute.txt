@@ -1,0 +1,16 @@
+C:\Users\admin\OneDrive\Desktop\Employee\testing\services\testingCommon\bin\Debug\netstandard2.1\testingCommon.deps.json
+C:\Users\admin\OneDrive\Desktop\Employee\testing\services\testingCommon\bin\Debug\netstandard2.1\testingCommon.dll
+C:\Users\admin\OneDrive\Desktop\Employee\testing\services\testingCommon\bin\Debug\netstandard2.1\testingCommon.pdb
+C:\Users\admin\OneDrive\Desktop\Employee\testing\services\testingCommon\bin\Debug\netstandard2.1\testingCommon.xml
+C:\Users\admin\OneDrive\Desktop\Employee\testing\services\testingCommon\bin\Debug\netstandard2.1\Unity.Beamable.Runtime.Common.dll
+C:\Users\admin\OneDrive\Desktop\Employee\testing\services\testingCommon\bin\Debug\netstandard2.1\UnityEngine.dll
+C:\Users\admin\OneDrive\Desktop\Employee\testing\services\testingCommon\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\admin\OneDrive\Desktop\Employee\testing\services\testingCommon\obj\Debug\netstandard2.1\testingCommon.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Desktop\Employee\testing\services\testingCommon\obj\Debug\netstandard2.1\testingCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Desktop\Employee\testing\services\testingCommon\obj\Debug\netstandard2.1\testingCommon.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Desktop\Employee\testing\services\testingCommon\obj\Debug\netstandard2.1\testingCommon.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Desktop\Employee\testing\services\testingCommon\obj\Debug\netstandard2.1\testingCommon.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Desktop\Employee\testing\services\testingCommon\obj\Debug\netstandard2.1\testingCommon.csproj.CopyComplete
+C:\Users\admin\OneDrive\Desktop\Employee\testing\services\testingCommon\obj\Debug\netstandard2.1\testingCommon.dll
+C:\Users\admin\OneDrive\Desktop\Employee\testing\services\testingCommon\obj\Debug\netstandard2.1\testingCommon.xml
+C:\Users\admin\OneDrive\Desktop\Employee\testing\services\testingCommon\obj\Debug\netstandard2.1\testingCommon.pdb
